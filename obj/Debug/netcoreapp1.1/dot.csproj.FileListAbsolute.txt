@@ -1,0 +1,8 @@
+/home/henrique/TDC/trampo/dot/bin/Debug/netcoreapp1.1/dot.deps.json
+/home/henrique/TDC/trampo/dot/bin/Debug/netcoreapp1.1/dot.runtimeconfig.json
+/home/henrique/TDC/trampo/dot/bin/Debug/netcoreapp1.1/dot.runtimeconfig.dev.json
+/home/henrique/TDC/trampo/dot/obj/Debug/netcoreapp1.1/dot.AssemblyInfo.cs
+/home/henrique/TDC/trampo/dot/bin/Debug/netcoreapp1.1/dot.dll
+/home/henrique/TDC/trampo/dot/bin/Debug/netcoreapp1.1/dot.pdb
+/home/henrique/TDC/trampo/dot/obj/Debug/netcoreapp1.1/dot.dll
+/home/henrique/TDC/trampo/dot/obj/Debug/netcoreapp1.1/dot.pdb
